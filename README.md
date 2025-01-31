@@ -132,4 +132,4 @@ Data Analytics Bootcamp - The nonprofit foundation Alphabet Soup wants a tool th
 
 ## Acknowledgments
 
-* For this challenge module, I reviewed the Module 19 class activities extensively and also had guidance from ChatGPT.
+* For this challenge module, I reviewed the Module 21 class activities extensively and also had guidance from ChatGPT.

@@ -128,7 +128,7 @@ Data Analytics Bootcamp - The nonprofit foundation Alphabet Soup wants a tool th
  
 ## Source Code Location
 
-* The source code files Are located in the root directory.
+* The source code files are located in the root directory.
 
 ## Acknowledgments
 
